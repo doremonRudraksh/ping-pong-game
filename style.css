@@ -1,0 +1,47 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 5px;
+}
+.heading h3{
+    display: inline;
+    font-size: 22px;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+
+h4
+{
+   background-color: grey;
+   color:white;
+   line-height: 2;
+}
+
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+
+.modal-dialog
+{
+    width: 70%;
+}
+
+#start #restart #status{
+    font-size: 22px;
+    width: 30px
+
+}
+
+.footer{
+    position: sticky;
+}
